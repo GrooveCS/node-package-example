@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GrooveCS/node-package-example/issues"
   },
+  "publishConfig": {
+    "@groovecs:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/GrooveCS/node-package-example#readme"
 }
